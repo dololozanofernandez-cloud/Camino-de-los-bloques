@@ -55,8 +55,8 @@ Para abrir y trabajar con el código fuente del proyecto, necesitarás:
 
 *🎮 Muestra del juego*
 
-![Inicio](./Camino de los bloques/Imagenes/INICIO.png)
-![Juego](./Camino de los bloques/Imagenes/JUEGO.png)
+![Inicio](Imagenes/INICIO.png)
+![Juego](Imagenes/JUEGO.png)
 
 *📞 Contacto*
 
